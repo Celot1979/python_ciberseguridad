@@ -11,6 +11,7 @@ def peticion(direccion):
 def main():
     direccion = input('Dirección de wordpress   ==>  ')
     peticion(direccion)
+    print("")
     
    
 
